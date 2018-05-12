@@ -1,4 +1,8 @@
 _repo: Die-Einsamen_9083
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Heyse, Paul
@@ -13,6 +17,8 @@ creator:
     - http://en.wikipedia.org/wiki/Paul_Heyse
     - http://de.wikipedia.org/wiki/Paul_Heyse
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9083#Die-Einsamen
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2005-10-01'
 gutenberg_type: Text
